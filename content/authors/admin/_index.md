@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty
 ---
 
 Dr. Raymond Chan specialized in cybersecurity, digital forensic, critical infrastructure protection, cyber-physical system, secure software development, and privacy-preserving model. He published many papers related to digital forensic, critical infrastructure protection. He has more than ten years of experience developing software systems for government-funded projects in Hong Kong. 
