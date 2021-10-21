@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **SIT Cybersecurity Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2021.
+The **SIT Cybersecurity Research Group** has been a center of excellence for Cybersecurity research, teaching, and practice since its founding in 2021.
