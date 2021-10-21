@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Raymond Chan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Singapore Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include blablabla.
 
 interests:
 - Cyber Security
@@ -65,6 +65,7 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Raymond Chan specialized in cybersecurity, digital forensic, critical infrastructure protection, cyber-physical system, secure software development, and privacy-preserving model. He published many papers related to digital forensic, critical infrastructure protection. He has more than ten years of experience developing software systems for government-funded projects in Hong Kong. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, he is an Assistant professor at Singapore Institute of Technology and the vice-chair of IFIP Working Group 11.10 on Critical Infrastructure Protection. He has experience to conduct vulnerability assessment and penetration testing, digital forensic investigation, provide security solutions for software systems.
+
