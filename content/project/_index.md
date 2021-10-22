@@ -1,8 +1,4 @@
 ---
-widget: pages
-headless: true
-weight: 20
-
 title: Projects
 
 # View.
@@ -13,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "test"
+  image: "featured.jpg"
 ---
