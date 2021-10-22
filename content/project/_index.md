@@ -1,8 +1,8 @@
+---
 widget: pages
 headless: true
 weight: 20
 
----
 title: Projects
 
 # View.
