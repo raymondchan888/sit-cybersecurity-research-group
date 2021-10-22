@@ -6,7 +6,7 @@ title: Testing user
 superuser: false
 
 # Role/position
-role: Assistant professor
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -23,9 +23,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: The University of Hong Kong
-    year: 2018
   - course: BEng in Computer Science
     institution: The University of Hong Kong
     year: 2011
@@ -62,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- Research Engineer
 ---
 
 Blablabla
