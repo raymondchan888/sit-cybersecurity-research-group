@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Testing user
+title: Yan Wye Kaye
 
 # Is this the primary user of the site?
 superuser: false
