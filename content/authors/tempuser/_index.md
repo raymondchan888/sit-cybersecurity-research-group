@@ -18,14 +18,14 @@ bio: My research interests include blablabla.
 
 interests:
 - Cyber Security
-- 
--  
+- Smart devices
+- Automation
 
 education:
   courses:
-  - course: BEng in Computer Science
-    institution: The University of Hong Kong
-    year: 2011
+  - course: B.Sc. (Eng) in Mechatronics
+    institution: Singapore Institute of Technology - University of Glasgow
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +43,7 @@ social:
   link: https://scholar.google.com/citations?user=&
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/WyeKaye
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,5 +62,7 @@ user_groups:
 - Research Engineer
 ---
 
-Blablabla
+Specialized in Mechatronics, Yan Wye Kaye has experience working as a Development Engineer on Remote Operated Vehicle (ROV) using Robot Operating System (ROS) before pursuing the role as a Research Engineer.
+
+His interest in Smart devices and Automation has motivated the passion in research, and currently. he is a Research Engineer at Singapore Institute of Technology working on the Vulnerability assessment and orchestration platform for Building Management System.
 
