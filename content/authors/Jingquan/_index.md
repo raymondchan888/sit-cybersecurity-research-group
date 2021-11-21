@@ -6,7 +6,7 @@ title: Jingquan Chen
 superuser: false
 
 # Role/position
-role: Grad Students
+role: Student Researcher
 
 # Organizations/Affiliations
 organizations:
