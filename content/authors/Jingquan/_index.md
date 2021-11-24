@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include blablabla.
 
 interests:
-- PlaceHolder
-- PlaceHolder
-- PlaceHolder
+- Quantitative Finance
+- Probability Theory
+- Machine Learning
 
 education:
   courses:
@@ -62,5 +62,4 @@ user_groups:
 - Grad Students
 ---
 
-Placeholder
-
+Currently a student with background in Finance in Singappore Institute of Singapore pursing a Bachelor's in Computing Science.
