@@ -6,7 +6,7 @@ title: Malcolm Low
 superuser: false
 
 # Role/position
-role: Senior Lecturer
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
