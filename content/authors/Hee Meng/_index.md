@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'HEEMENG.HO@SINGAPORETECH.EDU.SG'
+  link: 'mailto:HEEMENG.HO@SINGAPORETECH.EDU.SG'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hoheemeng/
