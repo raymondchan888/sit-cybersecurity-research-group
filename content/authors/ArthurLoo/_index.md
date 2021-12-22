@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Hee Meng Ho
+title: Arthur Wee Yeong Loo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Lecturer
+role: Lead Professional Officer
 
 # Organizations/Affiliations
 organizations:
@@ -16,18 +16,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include blablabla.
 
-#interests:
-#- Lightweight Intrusion Detection Technique on IoT
-#- Vision Analytics on the Edge
-#- Applications for IoT
+interests:
+- 
+- 
+- 
 
 education:
   courses:
-  - course: M.Sc. in Information Security
-    institution: Royal Holloway University of London , United Kingdom
+  - course: M.A.Tech. in Knowledge Engineering
 
-  - course: B.Eng. in Electrical Engineering
-    institution: Nanyang Technological University, Singapore
 
 
 # Social/Academic Networking
@@ -37,10 +34,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'HEEMENG.HO@SINGAPORETECH.EDU.SG'
-- icon: linkedin
+  link: 'mailto:test@example.org'
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/in/hoheemeng/
+  link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/
@@ -64,4 +61,3 @@ highlight_name: false
 user_groups:
 - Faculty
 ---
-
