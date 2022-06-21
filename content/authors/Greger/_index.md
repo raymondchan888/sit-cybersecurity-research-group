@@ -24,7 +24,7 @@ interests:
 education:
   courses:
   - course: B.Sc. (Eng) in Information and Communications Technology (Information Security)
-    institution: Singapore Institute of Technology - University of Glasgow
+    institution: Singapore Institute of Technology
     year: 
 
 # Social/Academic Networking
@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Engineer
+- Grad Students
 ---
 
 Specialized in Mechatronics, xxx has experience working as a Development Engineer on Remote Operated Vehicle (ROV) using Robot Operating System (ROS) before pursuing the role as a Research Engineer.
