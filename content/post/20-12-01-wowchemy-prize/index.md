@@ -1,10 +1,4 @@
 ---
-title: Testing
-date: 2022-01-01
+title:
+date:
 ---
-
-Testing
-
-<!--more-->
-
-Testing
