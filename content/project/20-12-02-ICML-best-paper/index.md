@@ -1,6 +1,6 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Orchestration Platform for Building Mangement Systems
+date: 2021-09-01
 image:
   focal_point: "top"
 ---
@@ -9,8 +9,4 @@ Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Building Management System is one of the essential critical infrastructure. It includes different subsystems like, water supply management system, power monitoring system and heating, ventilation, and air conditioning system. Recently, integrating Internet-of-Things (IoT) devices to improve the BMS has become a trend. Different protocols like MQ Telemetry Transport (MQTT) has been widely used inside the BMS as the preferred communication protocol when integrated with IoT devices. However, these subsystems are isolated from each other which poses the challenge of managing them. Each subsystem has an individual platform and separated dashboard of its own that is used to manage the particular system. Therefore, it is challenging to monitor Cyber-attacks targeting on a specific subsystem due to the lack of visibility. In this project, we propose a Proof-Of-Concept (POC) security enhanced BMS orchestration platform. It ingests information from various BMS subsystems, and IoT devices to collect BMS activities. A devices auto recovery and isolation methodology and a real-time MQTT logging and abnormal detection framework with push notifications have been introduced and integrated into the BMS orchestration platform to migrate cyber threats and attacks.
