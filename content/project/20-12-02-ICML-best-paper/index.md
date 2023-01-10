@@ -1,11 +1,11 @@
 ---
-title: Orchestration Platform for Building Mangement Systems
+title: Orchestration Platform for Building Management Systems
 date: 2021-09-01
 image:
   focal_point: "top"
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+
 
 <!--more-->
 
