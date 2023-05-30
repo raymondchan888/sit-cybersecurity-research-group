@@ -58,6 +58,6 @@ user_groups:
 - Student Helpers
 ---
 
-Currently a student in Singappore Institute of Singapore pursing a Bachelor's in Information and Communication Technology (Information Security)
+Currently a student in Singappore Institute of Singapore pursing a Bachelor's in Information and Communication Technology (Software Engingeering)
 
 
