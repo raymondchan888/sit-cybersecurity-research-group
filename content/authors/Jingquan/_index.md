@@ -34,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'jingquan123456@gmail.com'
+  link: 'mailto:jingquan123456@gmail.com'
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/jingquan-chen-13bb511b5/"

@@ -33,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'rlim31449@gmail.com'
+  link: 'mailto:rlim31449@gmail.com'
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/ryan-lim-b3730724b/"

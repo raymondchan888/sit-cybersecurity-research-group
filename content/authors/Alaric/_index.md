@@ -33,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '2000890@sit.singaporetech.edu.sg'
+  link: 'mailto:2000890@sit.singaporetech.edu.sg'
 - icon: linkedin
   icon_pack: fab
   link: "https://sg.linkedin.com/in/alaric-tang-b45011133"

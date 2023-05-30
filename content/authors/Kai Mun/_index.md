@@ -34,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '2100817@sit.singaporetech.edu.sg'
+  link: 'mailto:2100817@sit.singaporetech.edu.sg'
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/lohkaimun99/"
