@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kai Mun
+title: Lim Ryan
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,17 +14,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Data Analysis, Machine Learning, Automation and Optimisation.
-
+bio: 
 interests:
+- Software Development
+- Data Analytics
 - Data Science
-- Automation
-- Cyber Security
 
 education:
   courses:
-  - course: B.Sc. (Hon) in Computer Science (Specialise in IoT)
-    institution: Singapore Institute of Technology - University of Glasgow
+  - course: B.Sc. Information and Communication Technology (Software Engineering)
+    institution: Singapore Institute of Technology 
     year: Year 2
 
 # Social/Academic Networking
@@ -34,13 +33,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '2100817@sit.singaporetech.edu.sg'
+  link: 'rlim31449@gmail.com'
 - icon: linkedin
   icon_pack: fab
-  link: "https://www.linkedin.com/in/lohkaimun99/"
+  link: "https://www.linkedin.com/in/ryan-lim-b3730724b/"
 - icon: github
   icon_pack: fab
-  link: "https://github.com/lohkaimun99"
+  link: "https://github.com/personryan"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,6 +58,6 @@ user_groups:
 - Student Helpers
 ---
 
-Kai Mun is inquisitive at the magic that data science can provide, that is his main driving factor to finally become the data wizard.
-(also like most Computer Science student, coffee is the second driving factor)
+Currently a student in Singappore Institute of Singapore pursing a Bachelor's in Information and Communication Technology (Information Security)
+
 

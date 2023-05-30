@@ -19,7 +19,7 @@ content:
   - Principal Investigators
   - Faculty
   - Research Engineer
-  - Grad Students
+  - Student Helpers
   - Administration
   - Visitors
   - Alumni
