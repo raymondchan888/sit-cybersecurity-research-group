@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include blablabla.
+bio: 
 
 interests:
 - Blockchain Applications, Smart Contracts
@@ -41,16 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
+  link: 'mailto:purnima.mohan@singaporetech.edu.sg'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/
-- icon: github
+  link: "https://scholar.google.com/citations?user=J4-0la4AAAAJ&hl=en"
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/
+  link: "https://www.linkedin.com/in/purnima-murali-mohan-a5a25417/"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
