@@ -12,13 +12,13 @@ header:
   caption: ""
   image: ""
 
-{{ $paginator := .Paginate (where .Site.RegularPages "Type" "project") }}
+# {{ $paginator := .Paginate (where .Site.RegularPages "Type" "project") }}
 
-{{ range $paginator.Pages }}
-  <a href="{{ .Permalink }}">{{ .Title }}</a>
-{{ end }}
+# {{ range $paginator.Pages }}
+#   <a href="{{ .Permalink }}">{{ .Title }}</a>
+# {{ end }}
 
-{{ template "_internal/pagination.html" . }}
+# {{ template "_internal/pagination.html" . }}
 
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
