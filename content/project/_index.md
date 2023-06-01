@@ -49,8 +49,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
+    - name: Cyber Security
+      tag: CS
     - name: Computer Vision
       tag: CV
     - name: NLP
