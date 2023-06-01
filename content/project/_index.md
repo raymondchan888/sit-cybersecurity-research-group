@@ -11,7 +11,6 @@ view: 2
 header:
   caption: ""
   image: ""
----
 
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" "project") }}
 
@@ -21,7 +20,6 @@ header:
 
 {{ template "_internal/pagination.html" . }}
 
----
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
