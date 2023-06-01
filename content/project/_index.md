@@ -1,5 +1,5 @@
 ---
-title: Projects
+# title: 
 
 # # View.
 # #   1 = List
@@ -31,7 +31,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Projects'
 subtitle: ''
 
 content:
