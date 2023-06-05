@@ -37,9 +37,8 @@ content:
       tag: NLP
 
 design:
-  columns: '1'
-  view: masonry
+  columns: '2'
+  view: cards
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
 ---
