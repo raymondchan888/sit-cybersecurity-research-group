@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Projects
 type: landing
 
 sections:
@@ -12,7 +12,7 @@ sections:
       filters:
         # Folders to display content from
         folders:
-          - project
+          - project-1
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
