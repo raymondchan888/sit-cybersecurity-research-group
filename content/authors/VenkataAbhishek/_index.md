@@ -35,16 +35,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
+  link: 'https://www.singaporetech.edu.sg/directory/faculty/nalam-venkata-abhishek'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/
-- icon: github
+  link: "https://scholar.google.co.in/citations?user=0aJjW0IAAAAJ&hl=en"
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/
+  link: "https://www.linkedin.com/in/nalam-venkata-abhishek-a6471523/?originalSubdomain=sg"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

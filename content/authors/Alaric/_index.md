@@ -24,7 +24,7 @@ education:
   courses:
   - course: B.Sc. Information and Communication Technology (Information Security)
     institution: Singapore Institute of Technology 
-    year: Year 2
+    year: Year 3
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,16 +33,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
+  link: 'mailto:2000890@sit.singaporetech.edu.sg'
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=&
+  link: "https://sg.linkedin.com/in/alaric-tang-b45011133"
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: "https://github.com/Da1k0nBacon"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Student Helpers
 ---
 
 Currently a student in Singappore Institute of Singapore pursing a Bachelor's in Information and Communication Technology (Information Security)

@@ -37,13 +37,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:Raymond.Chan@singaporetech.edu.sg'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kanipan888
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_UictEIAAAAJ&hl
+  link: https://scholar.google.com/citations?hl=en&user=UxXlnUgAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/kanipan888
