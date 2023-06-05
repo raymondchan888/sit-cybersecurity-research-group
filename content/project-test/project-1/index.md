@@ -2,12 +2,12 @@
 title: Project 1
 date: 2023-06-05
 tags:
-  - Deep Learning
+  - ML
 
 ---
 ## Project Description
 
-This is a description of project 1. It can contain **markdown** formatted content, including text, images, and more.
+This is testing...
 
 ![Project Image](/path/to/project1-image.jpg)
 
