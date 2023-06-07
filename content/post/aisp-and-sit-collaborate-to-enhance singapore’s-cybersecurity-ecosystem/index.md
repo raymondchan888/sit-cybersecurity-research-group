@@ -1,7 +1,6 @@
 ---
 title: "AiSP and SIT Collaborate to Enhance Singapore’s Cybersecurity Ecosystem"
-date: 10 May 2022
-last_updated: 10 May 2022
+date: 2022-05-10
 ---
 
 ***Both organisations will conduct professional training courses and share best practices in the cybersecurity community.***

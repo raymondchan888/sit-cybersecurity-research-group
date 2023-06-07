@@ -1,7 +1,6 @@
 ---
 title: "Keeping the Digital World Safe"
-date: 10 October 2022
-last_updated: 10 October 2022
+date: 2022-10-10
 ---
 
 ***SITizens Andrea Chea and Anne Tan from the Information and Communications Technology (Information Security) programme recently clinched the ISACA Singapore Cyber Leadership Awards for their contributions to the field. In the second of this two-part series, SIT speaks to Anne about her contributions to the cybersecurity community and her aspirations.***
