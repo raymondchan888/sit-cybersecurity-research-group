@@ -1,6 +1,7 @@
 ---
 title: "SIT and ISACA Singapore Chapter Sign MOU to Advance Student Development in Technology"
-date: 2022-03-24
+date: "2022-03-24"
+lastmod: "2022-03-24"
 ---
 
 ![SIT-ISACA_MOU](./sit-isaca-mou.jpg)
