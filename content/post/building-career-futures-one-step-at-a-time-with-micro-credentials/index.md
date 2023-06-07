@@ -1,7 +1,6 @@
 ---
 title: "Building Career Futures One Step at a Time with Micro-credentials"
-date: 22 December 2022
-last_updated: 22 December 2022
+date: 2022-12-22
 ---
 
 ***SIT partners with NCS, Singtel, Singapore Computer Society and three polytechnics to boost upskilling efforts in ICT sector for working adults.***
