@@ -4,7 +4,7 @@ date: "22 December 2022"
 last_updated: "22 December 2022"
 ---
 
-***SIT partners with NCS, Singtel, Singapore Computer Society and three polytechnics to boost upskilling efforts in ICT sector for working adults. ***
+***SIT partners with NCS, Singtel, Singapore Computer Society and three polytechnics to boost upskilling efforts in ICT sector for working adults.***
 
 ![digital transformation resized](./digitaltransformationresized.jpg)
 

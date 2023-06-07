@@ -1,7 +1,7 @@
 ---
 title: "SIT Launches Singapore’s First Competency-based Stackable Micro-credential Pathway"
 date: "24 November 2022"
-last_updated: "24 November 2022"
+last_updated: "24-11-2022"
 ---
 
 ***MOUs signed with NCS, Singtel, Singapore Computer Society and three polytechnics to upskill and reskill ICT sector workforce. ***  
