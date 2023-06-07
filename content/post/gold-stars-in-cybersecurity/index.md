@@ -7,7 +7,7 @@ date: 26 January 2023
 
 ![STANDCON 2022 Team](./standcon2022team.jpg)
 
-*SITizens Claudia Chan (second row, second from left) and Jerry Tan (second row, extreme right) were awarded Gold at the Student Volunteer Recognition Programme (SVRP) 2022 by AiSP.  (Photo: Div0-N0H4TS)*
+<font size="2">*SITizens Claudia Chan (second row, second from left) and Jerry Tan (second row, extreme right) were awarded Gold at the Student Volunteer Recognition Programme (SVRP) 2022 by AiSP.  (Photo: Div0-N0H4TS)*</font>
 
 **Jerry Tan** recalled being fascinated by technology from a very young age. Movies featuring cutting-edge technologies, such as The Matrix, may have played a part, he mused. Computing’s reach and impact so riveted him that his focus was clear: “I purposed myself to be a protector of Singapore’s digital landscape,” he said.
 
@@ -15,7 +15,7 @@ While it has not been an easy road – from Normal (Academic)-Level to polytechn
 
 ![Jerry Tan Fu Wei](./jerrytanfuwei.jpg)
 
-*Jerry received the SVRP Gold award from Guest-of-Honour Mr Tan Kiat How, Senior Minister of State, Ministry of Communications and Information and Ministry of National Development, for his contributions to the cyber youth community. (Photo: AiSP)*
+<font size="2">*Jerry received the SVRP Gold award from Guest-of-Honour Mr Tan Kiat How, Senior Minister of State, Ministry of Communications and Information and Ministry of National Development, for his contributions to the cyber youth community. (Photo: AiSP)*</font>
 
 **Like-Minded Undergrads**
 
@@ -27,7 +27,7 @@ Claudia, like Jerry, is zealous in enabling fellow cybersecurity students to dev
 
 ![STANDCON 2022 Opening Ceremony](./standcon2022openingceremony.jpg)
 
-*Claudia (right) hosted the STANDCON 2022 Opening Ceremony with SITizen alumnus and Div0-N0H4TS Founding Chairman Yu Pengfei. (Photo: Claudia Chan)*
+<font size="2">*Claudia (right) hosted the STANDCON 2022 Opening Ceremony with SITizen alumnus and Div0-N0H4TS Founding Chairman Yu Pengfei. (Photo: Claudia Chan)*</font>
 
 **Equipping Peers**
 
