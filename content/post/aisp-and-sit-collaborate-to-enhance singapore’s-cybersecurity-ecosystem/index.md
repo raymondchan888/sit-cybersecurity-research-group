@@ -20,10 +20,10 @@ The signing ceremony was witnessed by Guest-of-Honour Dr Janil Puthucheary, Seni
 
  
 
-[1] The four-year direct honours ICT (IS) degree programme offered by SIT is Singapore’s first undergraduate degree programme that majors in information security, where students are trained to take on cyber threats in an authentic environment. Visit the [ICT (IS) programme page](https://www.singaporetech.edu.sg/undergraduate-programmes/information-and-communications-technology-information-security "ICT Programme Page") to find out more.
+<font size =2>[1] The four-year direct honours ICT (IS) degree programme offered by SIT is Singapore’s first undergraduate degree programme that majors in information security, where students are trained to take on cyber threats in an authentic environment. Visit the [ICT (IS) programme page](https://www.singaporetech.edu.sg/undergraduate-programmes/information-and-communications-technology-information-security "ICT Programme Page") to find out more.
 
 [2] In AiSP’s Ladies in Cyber Mentoring, SIT female students will be mentored by AiSP female mentors from the ICT industry.
 
 [3] In the AiSP Student Volunteer Recognition Programme, SIT students will be given opportunities contribute to the cybersecurity community and be part of the ecosystem.
 
-[4] In Bug Bounties, participants are tasked to identify vulnerabilities – also known as ‘bugs’ – that could compromise systems that manage infrastructure (e.g. building management systems), in a limited amount of time.
+[4] In Bug Bounties, participants are tasked to identify vulnerabilities – also known as ‘bugs’ – that could compromise systems that manage infrastructure (e.g. building management systems), in a limited amount of time. </font>
