@@ -1,6 +1,7 @@
 ---
 title: "SITizens Making Waves in Cybersecurity"
-date: October 10, 2022
+date: 2022-10-10
+lastmod: 2022-10-10
 ---
 
 ***SITizens Andrea Chea and Anne Tan from the Information and Communications Technology (Information Security) programme were recently awarded the ISACA Singapore Cyber Leadership Awards for their contributions to the field. In the first of this two-parter, SIT speaks to Andrea about what inspires her and how she hopes to impact the cybersecurity field.***
