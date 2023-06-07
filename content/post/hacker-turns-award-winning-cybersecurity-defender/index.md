@@ -1,7 +1,7 @@
 ---
 title: "Hacker Turns Award-Winning Cybersecurity Defender"
-date: "2022-03-10"
-lastmod: "2022-03-10"
+date: 2022-03-10
+lastmod: 2022-03-10
 ---
 
 ***SITizen and cybersecurity aficionado Yu Pengfei clinched the Student Award at Association of Information Security Professionals (AiSP) Cybersecurity Awards 2021. Find out how he made the journey to SIT, and encouraged an open and inclusive cybersecurity community through the N0H4TS movement.***

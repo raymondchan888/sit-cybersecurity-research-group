@@ -1,7 +1,7 @@
 ---
 title: "Gold Stars in Cybersecurity"
-date: "2023-01-26"
-lastmod: "2023-01-26"
+date: 2023-01-26
+lastmod: 2023-01-26
 ---
 
 ***One stumbled into IT, lured by an attractive brochure, and found her niche; the other has always known this is what he wants to do and has carefully planned his path. Last November, both SITizens were honoured by the Association of Information Security Professionals (AiSP) for their outstanding efforts in developing the student cybersecurity community.***
