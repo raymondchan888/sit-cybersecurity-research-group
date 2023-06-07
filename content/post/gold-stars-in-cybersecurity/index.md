@@ -1,13 +1,14 @@
 ---
 title: "Gold Stars in Cybersecurity"
-date: 26 January 2023
+date: "26 January 2023"
+last_updated: "26 January 2023"
 ---
 
 ***One stumbled into IT, lured by an attractive brochure, and found her niche; the other has always known this is what he wants to do and has carefully planned his path. Last November, both SITizens were honoured by the Association of Information Security Professionals (AiSP) for their outstanding efforts in developing the student cybersecurity community.***
 
 ![STANDCON 2022 Team](./standcon2022team.jpg)
 
-<font size="2">*SITizens Claudia Chan (second row, second from left) and Jerry Tan (second row, extreme right) were awarded Gold at the Student Volunteer Recognition Programme (SVRP) 2022 by AiSP.  (Photo: Div0-N0H4TS)*</font>
+*<font size="2">SITizens Claudia Chan (second row, second from left) and Jerry Tan (second row, extreme right) were awarded Gold at the Student Volunteer Recognition Programme (SVRP) 2022 by AiSP.  (Photo: Div0-N0H4TS)*</font>
 
 **Jerry Tan** recalled being fascinated by technology from a very young age. Movies featuring cutting-edge technologies, such as The Matrix, may have played a part, he mused. Computing’s reach and impact so riveted him that his focus was clear: “I purposed myself to be a protector of Singapore’s digital landscape,” he said.
 
@@ -15,7 +16,7 @@ While it has not been an easy road – from Normal (Academic)-Level to polytechn
 
 ![Jerry Tan Fu Wei](./jerrytanfuwei.jpg)
 
-<font size="2">*Jerry received the SVRP Gold award from Guest-of-Honour Mr Tan Kiat How, Senior Minister of State, Ministry of Communications and Information and Ministry of National Development, for his contributions to the cyber youth community. (Photo: AiSP)*</font>
+*<font size="2">Jerry received the SVRP Gold award from Guest-of-Honour Mr Tan Kiat How, Senior Minister of State, Ministry of Communications and Information and Ministry of National Development, for his contributions to the cyber youth community. (Photo: AiSP)*</font>
 
 **Like-Minded Undergrads**
 
@@ -27,7 +28,7 @@ Claudia, like Jerry, is zealous in enabling fellow cybersecurity students to dev
 
 ![STANDCON 2022 Opening Ceremony](./standcon2022openingceremony.jpg)
 
-<font size="2">*Claudia (right) hosted the STANDCON 2022 Opening Ceremony with SITizen alumnus and Div0-N0H4TS Founding Chairman Yu Pengfei. (Photo: Claudia Chan)*</font>
+*<font size="2">Claudia (right) hosted the STANDCON 2022 Opening Ceremony with SITizen alumnus and Div0-N0H4TS Founding Chairman Yu Pengfei. (Photo: Claudia Chan)*</font>
 
 **Equipping Peers**
 
