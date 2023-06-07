@@ -1,7 +1,7 @@
 ---
 title: "From Cyber Victim to Cyber Defender"
 date: 10 March 2022
-last_updated: 10 Mar 2022
+last_updated: Mar 10, 2022
 ---
 
 ***An early exposure to a cybercrime led Year 3 SITizen Kevin Tan to embark on a journey to build and hone digital sleuthing skills. His impressive efforts in giving back to the community earned him the Gold Award in the Association of Information Security Professionals (AiSP) Student Volunteer Recognition Programme (SVRP) 2021.***
