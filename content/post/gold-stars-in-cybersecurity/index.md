@@ -3,33 +3,33 @@ title: "Gold Stars in Cybersecurity"
 date: 26 January 2023
 ---
 
-One stumbled into IT, lured by an attractive brochure, and found her niche; the other has always known this is what he wants to do and has carefully planned his path. Last November, both SITizens were honoured by the Association of Information Security Professionals (AiSP) for their outstanding efforts in developing the student cybersecurity community.
+***One stumbled into IT, lured by an attractive brochure, and found her niche; the other has always known this is what he wants to do and has carefully planned his path. Last November, both SITizens were honoured by the Association of Information Security Professionals (AiSP) for their outstanding efforts in developing the student cybersecurity community.***
 
-STANDCON 2022 Team
+![STANDCON 2022 Team](./standcon2022team.jpg)
 
-SITizens Claudia Chan (second row, second from left) and Jerry Tan (second row, extreme right) were awarded Gold at the Student Volunteer Recognition Programme (SVRP) 2022 by AiSP.  (Photo: Div0-N0H4TS)
+*SITizens Claudia Chan (second row, second from left) and Jerry Tan (second row, extreme right) were awarded Gold at the Student Volunteer Recognition Programme (SVRP) 2022 by AiSP.  (Photo: Div0-N0H4TS)*
 
-Jerry Tan recalled being fascinated by technology from a very young age. Movies featuring cutting-edge technologies, such as The Matrix, may have played a part, he mused. Computing’s reach and impact so riveted him that his focus was clear: “I purposed myself to be a protector of Singapore’s digital landscape,” he said.
+**Jerry Tan** recalled being fascinated by technology from a very young age. Movies featuring cutting-edge technologies, such as The Matrix, may have played a part, he mused. Computing’s reach and impact so riveted him that his focus was clear: “I purposed myself to be a protector of Singapore’s digital landscape,” he said.
 
-While it has not been an easy road – from Normal (Academic)-Level to polytechnic to SIT, coding came easily to Jerry. He did not just actively seek cybersecurity knowledge and skills, but also opportunities to share them, which a leadership role in Div0-N0H4TS cybersecurity community has allowed him to do.
+While it has not been an easy road – from Normal (Academic)-Level to polytechnic to SIT, coding came easily to Jerry. He did not just actively seek cybersecurity knowledge and skills, but also opportunities to share them, which a leadership role in [Div0-H04TS](https://n0h4ts.com/ "H04TS") cybersecurity community has allowed him to do.
 
-JerryTanFuWei
+![Jerry Tan Fu Wei](./jerrytanfuwei.jpg)
 
-Jerry received the SVRP Gold award from Guest-of-Honour Mr Tan Kiat How, Senior Minister of State, Ministry of Communications and Information and Ministry of National Development, for his contributions to the cyber youth community. (Photo: AiSP)
+*Jerry received the SVRP Gold award from Guest-of-Honour Mr Tan Kiat How, Senior Minister of State, Ministry of Communications and Information and Ministry of National Development, for his contributions to the cyber youth community. (Photo: AiSP)*
 
-Like-Minded Undergrads
+**Like-Minded Undergrads**
 
 The N0H4TS movement was founded in 2019 by SIT students to foster interest and innovation in cybersecurity. Today, the community has grown beyond the campus and has since evolved to include the wider community under Division Zero (Div0). Div0-N0H4TS is known for its annual nationwide STANDCON student cybersecurity conference and Cyber League cybersecurity competition.
 
-Claudia Chan is the current President and Team Lead for the SIT chapter of N0H4TS. Prior to entering polytechnic, the Year 4 Information and Communications Technology (Information Security) (ICT (IS)) undergraduate had never tried nor been interested in IT. An eye-catching brochure persuaded her to join a polytechnic course in IT, and it wasn’t long before she was hooked on the idea of ethical hacking.
+**Claudia Chan** is the current President and Team Lead for the SIT chapter of N0H4TS. Prior to entering polytechnic, the Year 4 [Information and Communications Technology (Information Security)](https://www.singaporetech.edu.sg/undergraduate-programmes/information-and-communications-technology-information-security "ICT(IS)") (ICT (IS)) undergraduate had never tried nor been interested in IT. An eye-catching brochure persuaded her to join a polytechnic course in IT, and it wasn’t long before she was hooked on the idea of ethical hacking.
 
 Claudia, like Jerry, is zealous in enabling fellow cybersecurity students to develop their skills. Her first foray into the subject — a challenge to herself to see if she could take on something new — faltered until her peers and seniors helped, and she is now determined to pay it forward. The more skills she picked up, the more enthusiastic she became about providing students with a platform to learn from one another. Div0-N0H4TS organises STANDCON specifically for youths to give them a space to mingle with peers and career professionals, discuss trending topics and test their skills.
 
-STANDCON 2022 Opening Ceremony
+![STANDCON 2022 Opening Ceremony](./standcon2022openingceremony.jpg)
 
-Claudia (right) hosted the STANDCON 2022 Opening Ceremony with SITizen alumnus and Div0-N0H4TS Founding Chairman Yu Pengfei. (Photo: Claudia Chan)
+*Claudia (right) hosted the STANDCON 2022 Opening Ceremony with SITizen alumnus and Div0-N0H4TS Founding Chairman Yu Pengfei. (Photo: Claudia Chan)*
 
-Equipping Peers
+**Equipping Peers**
 
 As Public Relations Lead in Div0-N0H4TS, Jerry, also a final-year ICT (IS) student, is in his element. Striving to stay abreast of rapid advancements in the field, he believes “knowledge is power and should be shared with all”. Seeing STANDCON’s participation double during his tenure has given him great satisfaction — it is a step closer to the cyber-secure Singapore he envisions.
 
@@ -39,7 +39,7 @@ It is a selfless habit. The 26-year-old has been tireless in helping his SIT pee
 
 Jerry also uses the Div0-N0H4TS social media platforms to reach out to other students and the public — anyone interested in cybersecurity. He doles out cybersecurity tips on Instagram and writes and collates ‘how-to' contributions on the Div0-N0H4TS blog.
 
-A Boost for the Community
+**A Boost for the Community**
 
 It is hard juggling work, studies and volunteer activities, but Jerry confesses to being a workaholic. If his expertise can help someone, that is what drives him to continue learning and growing.
 
