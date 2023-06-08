@@ -14,4 +14,5 @@ The project is done in collaboration with Distek Enterprises Pte Ltd and Frontie
 ![Multi SDC Framework-Equipped Network](sdc-framework-network.png)
 
 **<font size = 6>Detecting and Neutralising Intruder Drone**</font>
+
 The following [link](https://vimeo.com/348120761/fe146f71a1) shows how SDC is able to detect and neturalise any intruder drones.
