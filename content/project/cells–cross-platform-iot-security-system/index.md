@@ -1,6 +1,6 @@
 ---
 title: "CELLS – Cross Platform IoT Security System"
-date: 
+date: 2019-07-01
 ---
 
 ***CELLS is cross-platform and detects Meltdown and Spectre attacks in real-time***
