@@ -33,8 +33,6 @@ coordinates:
 directions: Enter SIT NYP Building and take the lift to Floor 5
 office_hours:
   - 'Monday to Friday: 09:00 to 18:00'
-coordinates:
-  -
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
