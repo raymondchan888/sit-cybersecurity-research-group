@@ -20,23 +20,17 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: Raymond.Chan@singaporetech.edu.sg
 address:
-  street: 450 Serra Mall
+  street: 172 Ang Mo Kio Avenue 8   
   city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  region: Singapore
+  postcode: '567739'
+  country: Singapore
+  country_code: SG
+directions: Enter SIT NYP Building and take the lift to Floor 5
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Monday to Friday: 09:00 to 18:00'\
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
