@@ -28,8 +28,8 @@ address:
   country: Singapore
   country_code: SG
 coordinates:
-    latitude: 1.369581
-    longitude: 103.847979
+  latitude: 1.369581
+  longitude: 103.847979
 directions: Enter SIT NYP Building and take the lift to Floor 5
 office_hours:
   - 'Monday to Friday: 09:00 to 18:00'
