@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Raymond Chan
+title: [Raymond Chan](https://www.singaporetech.edu.sg/directory/faculty?search_type=name&name=Raymond&research=&keyword=&cluster=&sort_by=last_name&first_char_first_name=&first_char_last_name=)
 
 # Is this the primary user of the site?
 superuser: true
