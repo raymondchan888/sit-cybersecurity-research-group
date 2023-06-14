@@ -11,7 +11,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: Singapore Institute of Technology
-  url: ""
+  url: "https://www.singaporetech.edu.sg/directory/faculty/spiridon-bakiras"
 
 # Short bio (displayed in user profile at end of posts) 
 bio: I am an Associate Professor in the Infocomm Technology cluster at Singapore Institute of Technology. Before that, I held teaching and research positions at Hamad Bin Khalifa University (Qatar), Michigan Technological University, the City University of New York, the Hong Kong University of Science and Technology, and the University of Hong Kong. I received my B.S. degree in Electrical and Computer Engineering from the National Technical University of Athens, my M.S. degree in Telematics from the University of Surrey, and my PhD degree in Electrical Engineering from the University of Southern California. My main research interests include secure and privacy-preserving computations, applied cryptography, spatio-temporal databases, and mobile computing.

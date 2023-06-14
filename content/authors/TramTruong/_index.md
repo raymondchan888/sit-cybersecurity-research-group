@@ -11,7 +11,7 @@ role: Assistant professor
 # Organizations/Affiliations
 organizations:
 - name: Singapore Institute of Technology
-  url: ""
+  url: "https://www.singaporetech.edu.sg/directory/faculty/tram-truong-huu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

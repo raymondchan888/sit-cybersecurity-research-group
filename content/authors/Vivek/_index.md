@@ -11,7 +11,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: Singapore Institute of Technology
-  url: ""
+  url: "https://www.singaporetech.edu.sg/directory/faculty/vivek-balachandran"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
