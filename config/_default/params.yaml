@@ -23,14 +23,14 @@ twitter: ''
 email: Raymond.Chan@singaporetech.edu.sg
 address:
   street: 172 Ang Mo Kio Avenue 8   
-  city: Stanford
+  city: Singapore
   region: Singapore
   postcode: '567739'
   country: Singapore
   country_code: SG
 directions: Enter SIT NYP Building and take the lift to Floor 5
 office_hours:
-  - 'Monday to Friday: 09:00 to 18:00'\
+  - 'Monday to Friday: 09:00 to 18:00'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
