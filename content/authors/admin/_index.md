@@ -11,7 +11,7 @@ role: Assistant professor
 # Organizations/Affiliations
 organizations:
 - name: Singapore Institute of Technology
-  url: "https://www.singaporetech.edu.sg/directory/faculty?search_type=name&name=Raymond&research=&keyword=&cluster sort_by=last_name&first_char_first_name=&first_char_last_name="
+  url: "https://www.singaporetech.edu.sg/directory/faculty/raymond-chan"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
