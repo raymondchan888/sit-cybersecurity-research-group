@@ -26,18 +26,6 @@ education:
   - course: PhD (Software Engineering)
     institution: University of Malaga, Spain
 
-# Publications
-
-publications:
-  items:
-  - type: Journal Papers
-    items:
-    - Verification of Complex Dynamic Data Tree with Mu-Calculus, Maria del Mar Gallardo and David Sanan, Automated Software Engineering, 2013
-    - An Isabelle/HOL Formalisation of the SPARC Instruction Set Architecture and the TSO Memory Model, Hou Zhe, David Sanan, Liu Yang, Chuen Hoa Koh, and Dong Jin Song, Journal of Automated Reasoning, 65:569 – 598, 2021
-  - type: Conference Papers
-    items:
-    - Rely-guarantee Reasoning about Concurrent Memory Management in Zephyr RTOS, Yongwang Zhao and David Sanan, The 31st International Conference on Computer-Aided Verification, CAV, New York, US, July 2019
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -73,6 +61,14 @@ user_groups:
 - Faculty
 ---
 
+# Biography
 Dr. David Sanan received his PhD degree in Software Engineering from the University of Malaga, Malaga, Spain, in 2009. Before joining SIT as an Assistant Professor, he was a Principal Research Scientist at Nanyang Technological University where he was leading several projects at the CyberSecurity Lab.  Previously, he was a researcher at some prestigious universities like Trinity College Dublin and National University of Singapore. 
 
 His research interest is in bringing together theoretical research and applications, by applying formal methods to guarantee the security of real-world applications.  His work has outcomes applied to security micro-kernels for high assurance systems like Electric-Vehicles and Spacecrafts, techniques for quantum computing verification and the certification of smart contracts. As a result, his research has been recognized by international standards like ARINC, and has been published in top tiers venues like CAV, FM, S&P, POPL, TDSC, and TOPLAS among others.
+
+# Publications
+## Journal Papers
+  - Verification of Complex Dynamic Data Tree with Mu-Calculus, Maria del Mar Gallardo and David Sanan, Automated Software Engineering, 2013
+  - An Isabelle/HOL Formalisation of the SPARC Instruction Set Architecture and the TSO Memory Model, Hou Zhe, David Sanan, Liu Yang, Chuen Hoa Koh, and Dong Jin Song, Journal of Automated Reasoning, 65:569 – 598, 2021
+## Conference Papers
+  - Rely-guarantee Reasoning about Concurrent Memory Management in Zephyr RTOS, Yongwang Zhao and David Sanan, The 31st International Conference on Computer-Aided Verification, CAV, New York, US, July 2019
