@@ -61,12 +61,12 @@ user_groups:
 - Faculty
 ---
 
-## **Biography**
+## <span style="font-size: 1.25rem  ;">**Biography**</span>
 Dr. David Sanan received his PhD degree in Software Engineering from the University of Malaga, Malaga, Spain, in 2009. Before joining SIT as an Assistant Professor, he was a Principal Research Scientist at Nanyang Technological University where he was leading several projects at the CyberSecurity Lab.  Previously, he was a researcher at some prestigious universities like Trinity College Dublin and National University of Singapore. 
 
 His research interest is in bringing together theoretical research and applications, by applying formal methods to guarantee the security of real-world applications.  His work has outcomes applied to security micro-kernels for high assurance systems like Electric-Vehicles and Spacecrafts, techniques for quantum computing verification and the certification of smart contracts. As a result, his research has been recognized by international standards like ARINC, and has been published in top tiers venues like CAV, FM, S&P, POPL, TDSC, and TOPLAS among others.
 
-## **Publications**
+## <span style="font-size: 1.25rem  ;">**Publications**</span>
 <details>
   <summary><strong>Journal Papers</strong></summary>
 
