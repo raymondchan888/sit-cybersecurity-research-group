@@ -68,13 +68,14 @@ user_groups:
 
 ## <span style="font-size: 1.25rem  ;">**Biography**</span>
 
-<span style="font-size: 0.9rem ;">Dr. Purnima believes that a gratifying way to drive lifelong learning experience in an academic's life is through teaching and interacting with young students, who are progressively stepping into the real world. She obtained her Doctorate and Master's degrees in Communication Engineering from the National University of Singapore (NUS).  She has expertise in Layer 2 and Layer 3 network protocols while working in the industry with Aricent/Altran Group --- TELLABS datacom development, Finland.  Her current research areas include Software Defined Networks (SDN), Network Function Virtualization, and 5G Networks, focusing on Resilience, Traffic engineering, Secure routing, Optimization programming, and Heuristics design.
+<span style="font-size: 0.9rem ;">Dr. Purnima believes that a gratifying way to drive lifelong learning experience in an academic's life is through teaching and interacting with young students, who are progressively stepping into the real world. She obtained her Doctorate and Master's degrees in Communication Engineering from the National University of Singapore (NUS).  She has expertise in Layer 2 and Layer 3 network protocols while working in the industry with Aricent/Altran Group --- TELLABS datacom development, Finland.  Her current research areas include Software Defined Networks (SDN), Network Function Virtualization, and 5G Networks, focusing on Resilience, Traffic engineering, Secure routing, Optimization programming, and Heuristics design.</span>
 
-During her Postdoctoral research at NUS,  she has gained experience in machine learning algorithms to enable automation of next-generation networks. Given her strong theoretical foundation in the SDN architecture, she has also got practical experience in bringing-up and configuring industry-grade SDN switches. She has been extensively publishing in the area of communication networks in Tier-1 conferences and high impact factor journals while remaining as an active reviewer of IEEE and Elsevier Transactions. </span>
+<span style="font-size: 0.9rem  ;">During her Postdoctoral research at NUS,  she has gained experience in machine learning algorithms to enable automation of next-generation networks. Given her strong theoretical foundation in the SDN architecture, she has also got practical experience in bringing-up and configuring industry-grade SDN switches. She has been extensively publishing in the area of communication networks in Tier-1 conferences and high impact factor journals while remaining as an active reviewer of IEEE and Elsevier Transactions.</span>
 
 ## <span style="font-size: 1.25rem  ;">**Publications**</span>
 <details>
   <summary><strong>Journal Papers</strong></summary>
+
   - <span style="font-size: 0.9rem ;">Purnima Murali Mohan, Tram Truong-Huu and Mohan Gurusamy, "Byzantine-Resilient Controller Mapping and Remapping in Software Defined Networks," in <i>IEEE Transactions on Network Science and Engineering</i>, Mar 2020.</span>
 
   - <span style="font-size: 0.9rem ;">Tram Truong-Huu, Purnima Murali Mohan and Mohan Gurusamy, "Virtual Network Embedding in Ring Optical Data Centers using Markov Chain Probability Model," in <i>IEEE Transactions on Network and Service Management</i>, July 2019.</span>
@@ -89,6 +90,7 @@ During her Postdoctoral research at NUS,  she has gained experience in machine l
 </details>
 <details>
   <summary><strong>Conference Papers</strong></summary>
+
   - <span style="font-size: 0.9rem ;">Hoe Feng Ting and Purnima Murali Mohan, "ASIST: Automated Strategic Partners Ranking and Recommendation System Using NLP and Security Intelligence," in 2021 IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI), 2021, pp. 1-6 (Best Student Paper Award).</span>
 
   - <span style="font-size: 0.9rem ;">Tan Hui Yang Zen, Chin Bing Hong, Purnima Murali Mohan and Vivek Balachandran, "ABC-Verify: AI-Blockchain Integrated Framework for Tweet Misinformation Detection," in 2021 IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI), 2021, pp. 1-5.</span>

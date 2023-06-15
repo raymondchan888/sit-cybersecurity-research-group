@@ -68,6 +68,7 @@ user_groups:
 ## <span style="font-size: 1.25rem  ;">**Publications**</span>
 <details>
   <summary><strong>Journal Papers</strong></summary>
+
 - <span style="font-size: 0.9rem ;">Y. Hou, S. G. Teo, Z. Chen, M. Wu, C.-K. Kwoh, T. Truong-Huu, "Handling Labeled Data Insufficiency: Semi-supervised Learning with Self-Training Mixup Decision Tree for Classification of Network Attacking Traffic," <i>IEEE Transactions on Dependable and Secure Computing</i>, July 2022.</span>
 
 - <span style="font-size: 0.9rem ;">P. Pratim Kundu, T. Truong-Huu, L. Chen, L. Zhou, and Sin G. Teo, "Detection and Classification of Botnet Traffic using Deep Learning with Model Explanation," <i>IEEE Transactions on Dependable and Secure Computing</i>, June 2022.</span>

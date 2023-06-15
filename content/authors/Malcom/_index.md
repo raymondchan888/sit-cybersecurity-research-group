@@ -69,9 +69,9 @@ user_groups:
 
 ## <span style="font-size: 1.25rem  ;">**Biography**</span>
 
-<span style="font-size: 0.9rem  ;">Dr. Malcolm Yoke Hean Low is currently an Associate Professor with the Singapore Institute of Technology (SIT), and a member of the SIT Systems Section (S3). Prior to joining SIT, he was the Vice President (Aerospace) with D-SIMLAB Technologies. In 2006, Malcolm joined the Nanyang Technological University as an Assistant Professor in the School of Computer Engineering where he led large-scale simulation and optimization research projects in the defence and maritime domains funded by the Singapore Ministry of Defence and the Maritime and Port Authority of Singapore. Prior to this, he was with the Singapore Institute of Manufacturing Technology where he executed simulation-based optimization projects with multinational companies.
+<span style="font-size: 0.9rem  ;">Dr. Malcolm Yoke Hean Low is currently an Associate Professor with the Singapore Institute of Technology (SIT), and a member of the SIT Systems Section (S3). Prior to joining SIT, he was the Vice President (Aerospace) with D-SIMLAB Technologies. In 2006, Malcolm joined the Nanyang Technological University as an Assistant Professor in the School of Computer Engineering where he led large-scale simulation and optimization research projects in the defence and maritime domains funded by the Singapore Ministry of Defence and the Maritime and Port Authority of Singapore. Prior to this, he was with the Singapore Institute of Manufacturing Technology where he executed simulation-based optimization projects with multinational companies.</span>
 
-He is a Senior Member of the IEEE and ACM, and was the principal investigator of a Singapore Ministry of Defence funded project on “Evolutionary Computing Methodologies for Modelling, Simulation and Analysis” under the Defence Innovation Research Programme, as well as the principal investigator in the Maritime and Port Authority of Singapore and APL funded research project on “Optimization of Stowage Plans for Large Containerships”. He has extensive experience in modelling and simulation, planning and scheduling, as well as parallel computing. His current research interest is in the application of parallel/distributed simulation, grid computing and agent technology for the modelling, simulation, analysis and optimization of complex systems.</span>
+<span style="font-size: 0.9rem  ;">He is a Senior Member of the IEEE and ACM, and was the principal investigator of a Singapore Ministry of Defence funded project on “Evolutionary Computing Methodologies for Modelling, Simulation and Analysis” under the Defence Innovation Research Programme, as well as the principal investigator in the Maritime and Port Authority of Singapore and APL funded research project on “Optimization of Stowage Plans for Large Containerships”. He has extensive experience in modelling and simulation, planning and scheduling, as well as parallel computing. His current research interest is in the application of parallel/distributed simulation, grid computing and agent technology for the modelling, simulation, analysis and optimization of complex systems.</span>
 
 ## <span style="font-size: 1.25rem  ;">**Publications**</span>
 <details>
@@ -103,6 +103,7 @@ He is a Senior Member of the IEEE and ACM, and was the principal investigator of
 </details>
 <details>
   <summary><strong>Conference Papers</strong></summary>
+
   - <span style="font-size: 0.9rem ;">David Lin and Malcolm Yoke Hean Low, “Concept Design of a System Architecture for a Manufacturing Cyber-physical Digital Twin System”, 2020 International Conference on Industrial Engineering & Engineering Management (IEEM2020), 14-17 December 2020, Singapore.</span>
 
   - <span style="font-size: 0.9rem ;">Sim Mun Hon, Malcolm Yoke Hean Low, Chin Soon Chong, and Mojtaba Shakeri, “Job Shop Scheduling Problem Neural Network Solver with Dispatching Rules,”, 2020 International Conference on Industrial Engineering and Engineering Management (IEEM2020), 14-17 December 2020, Singapore.</span>
@@ -298,7 +299,9 @@ He is a Senior Member of the IEEE and ACM, and was the principal investigator of
 </details>
 <details>
   <summary><strong>Books</strong></summary>
+
   - <span style="font-size: 0.9rem ;">Fanchao Zeng, James Decraene, Malcolm Yoke Hean Low, Suiping Zhou, Wentong Cai. “Diversity-driven Self-Adaptation in Evolutionary Algorithms” Intelligent Control and Computer Engineering, Lecture Notes in Electrical Engineering Series, Volume 70, pp. 95-106, 2011</span>
+
   - <span style="font-size: 0.9rem ;">Heiko Aydt, Stephen John Turner, Wentong Cai, and Malcolm Yoke Hean Low. ""An agent-based generic framework for symbiotic simulation systems"". In Adelinde M. Uhrmacher and Danny Weyns editors, Agents, Simulation and Applications. Taylor and Francis, 2008</span>
 </details>
 
