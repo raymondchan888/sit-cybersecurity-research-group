@@ -55,6 +55,7 @@ user_groups:
 - Faculty
 ---
 
-Wing Keong's research focus has been in the areas of cryptographic protocols, network security and usable security. He has designed a usable off-the-record key-establishment protocol and guided his FYP student in adopting it to develop an Android app for secure SMS which is freely available at Google Play.
+## <span style="font-size: 1.25rem  ;">**Biography**</span>
+<span style="font-size: 0.9rem  ;">Wing Keong's research focus has been in the areas of cryptographic protocols, network security and usable security. He has designed a usable off-the-record key-establishment protocol and guided his FYP student in adopting it to develop an Android app for secure SMS which is freely available at Google Play.
 
-In 2003 while a number of portability services were expensive, Wing Keong conceptualised an iName project which uses a name instead of a number to call a person. He led his student in developing it, participated in the Wireless Challenge organized by SITF (Singapore Information Technology Federation), Cisco, HP, Siemens and IDA, and won the HP Best Regional Appeal Award. Interestingly after 10 years, this similar idea has re-surfaced as a recently launched CallmyName service by Global Yellow Pages.
+In 2003 while a number of portability services were expensive, Wing Keong conceptualised an iName project which uses a name instead of a number to call a person. He led his student in developing it, participated in the Wireless Challenge organized by SITF (Singapore Information Technology Federation), Cisco, HP, Siemens and IDA, and won the HP Best Regional Appeal Award. Interestingly after 10 years, this similar idea has re-surfaced as a recently launched CallmyName service by Global Yellow Pages.</span>
