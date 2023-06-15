@@ -11,7 +11,7 @@ role: Lecturer
 # Organizations/Affiliations
 organizations:
 - name: Singapore Institute of Technology
-  url: ""
+  url: "https://www.singaporetech.edu.sg/directory/faculty/muhamed-fauzi-bin-abbas"
 
 # Short bio (displayed in user profile at end of posts)
 bio:

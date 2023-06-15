@@ -11,7 +11,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: Singapore Institute of Technology
-  url: ""
+  url: "https://www.singaporetech.edu.sg/directory/faculty/steven-wong"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -59,5 +59,8 @@ highlight_name: false
 user_groups:
 - Faculty
 ---
-Steven’s main research focus is in the field of Embedded Systems and Wireless Sensor Networks where networks of resource-constrained wireless devices have been designed and used in different application domains such as medical technologies, minimally-invasive surgeries, ambient computing, intelligent transportation systems, environmental, tectonic and volcanic monitoring. He has been involved in several interdisciplinary projects with a total grant amount exceeding S$2.5m from 2008-12. Prior to joining SIT in 2013, he has over 45 peer-reviewed publications and has filed 2 international patents (1 pending, 1 granted)
+
+## <span style="font-size: 1.25rem  ;">**Biography**</span>
+
+<span style="font-size: 0.9rem  ;">Steven’s main research focus is in the field of Embedded Systems and Wireless Sensor Networks where networks of resource-constrained wireless devices have been designed and used in different application domains such as medical technologies, minimally-invasive surgeries, ambient computing, intelligent transportation systems, environmental, tectonic and volcanic monitoring. He has been involved in several interdisciplinary projects with a total grant amount exceeding S$2.5m from 2008-12. Prior to joining SIT in 2013, he has over 45 peer-reviewed publications and has filed 2 international patents (1 pending, 1 granted)</span>
 

@@ -11,7 +11,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: Singapore Institute of Technology
-  url: ""
+  url: "https://www.singaporetech.edu.sg/directory/faculty/wan-yee-wendy-hui"
 
 # Short bio (displayed in user profile at end of posts) 
 bio: 
@@ -49,3 +49,5 @@ highlight_name: false
 user_groups:
 - Faculty
 ---
+
+
