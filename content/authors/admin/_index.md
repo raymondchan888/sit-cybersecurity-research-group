@@ -72,6 +72,7 @@ Currently, he is an Assistant professor at Singapore Institute of Technology and
 ## <span style="font-size: 1.25rem  ;">**Publications**</span>
 <details>
   <summary><strong>Conference Papers</strong></summary>
+  
   - <span style="font-size: 0.9rem  ;">Chan, Raymond, Forest Tan, Ulric Teo, Brandon Kow. "Vulnerability Assessments of Building Management Systems." International Conference on Critical Infrastructure Protection. Springer, Cham, 2020.</span>
   - <span style="font-size: 0.9rem  ;">Chan, Raymond, Kam-Pui Chow, and Chun-Fai Chan. "Defining Attack Patterns for Industrial Control Systems." International Conference on Critical Infrastructure Protection. Springer, Cham, 2019.</span>
   - <span style="font-size: 0.9rem  ;">Chan, Chun-Fai, KP Chow, C Mak, R Chan. "Detecting Anomalies in Programmable Logic Controllers Using Unsupervised Machine Learning." IFIP International Conference on Digital Forensics. Springer, Cham, 2019.</span>
