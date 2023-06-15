@@ -55,4 +55,19 @@ user_groups:
 - Faculty
 ---
 
+## <span style="font-size: 1.25rem  ;">**Publications**</span>
+<details>
+  <summary><strong>Journal Papers</strong></summary>
+
+  - <span style="font-size: 0.9rem  ;">J Yu, L Lu, P Xiao, Z Li, Y Zhou, “Monitoring, analyzing and characterizing lookup traffic in a large-scale DHT”. Computer Communications 34(13): 1622-1629 (2011)</span>
+</details>
+<details>
+  <summary><strong>Conference Papers</strong></summary>
+
+  - <span style="font-size: 0.9rem  ;">EC Chang, L Lu, Y Wu, R HC Yap, J Yu, “Enhancing host security using external environment sensors”. Int. J. Inf. Sec. 10(5): 285-299 (2011)</span>
+  - <span style="font-size: 0.9rem ;">L Lu, EC Chang, MC Chan, “Website Fingerprinting and Identification using Ordered Feature Sequences”. In proc. of European Symposium on Research in Computer Security (ESORICS) 2010: 199-214</span>
+  - <span style="font-size: 0.9rem ;">J Yu, C Fang, L Lu and Z Li, "A Lightweight Mechanism to Mitigate Application Layer DDoS Attacks", in proc. of ICST Conference on Scalable Information Systems (INFOSCALE) 2009: 175-191</span>
+</details>
+
+
 

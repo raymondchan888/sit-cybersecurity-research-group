@@ -72,13 +72,13 @@ user_groups:
 <details>
   <summary><strong>Journal Papers</strong></summary>
 
-  - <span style="font-size: 0.9rem  ;">L. Zhou, H. Guo, and G. Deng. A fog computing based approach to DDoS mitigation in IIoT systems. Computers & Security - Journal, Elsevier, Vol. 85, pp. 51-62, August 2019</span>
-  - <span style="font-size: 0.9rem  ;">H. Guo, L. H. Ngoh, W. C. Wong and J. G. Tan. Comparison of In-Network versus Staggered Multicast Video Distribution Models. Multimedia Tools and Applications - Journal, Kluwer Academic Publishers, Vol. 28, No. 3, pp. 373 – 394, March 2006</span>
-  - <span style="font-size: 0.9rem  ;">H. Guo and X. Yu. A Survey on Blockchain Technology and its security. Blockchain: Research and Applications, Elsevier, February 2022</span>
-  - <span style="font-size: 0.9rem  ;">D. Li, H. Guo, J. Zhou, L. Zhou, and J. W. Wong. SCADAWall: A CPI-Enabled Firewall Model for SCADA Security. Computers & Security Journal, Elsevier, Vol. 80, pp. 134-154, January 2019</span>
-  - <span style="font-size: 0.9rem  ;">H. Guo, L. H. Ngoh, W. C. Wong and J. G. Tan. DINCast: A Hop Efficient Dynamic Multicast Infrastructure for P2P Computing. Future Generation Computer Systems - Journal, Special issue in Peer-To-Peer Computing and Interaction with Grids, Elsevier, Vol 21/3 pp. 361-375, March 2005</span>
-  - <span style="font-size: 0.9rem  ;">E. G. Chekole, S. Chattopadhyay, M. Ochoa, H. Guo. Unnikrishnan Cheramangalath. CIMA: Compiler-Enforced Resilience Against Memory Safety Attacks in Cyber-Physical Systems. Computers & Security, Elsevier, Volume 94, July 2020</span>
-  - <span style="font-size: 0.9rem  ;">H. Guo, Y, Wu, F. Bao, H. Chen and M. Ma. UBAPV2G: A Unique Batch Authentication Protocol for Vehicle-to-Grid Communications. IEEE Transactions on Smart Grid, Vol. 2, No. 4, pp. 707-714, December 2011</span>
+  - <span style="font-size: 0.9rem  ;">L. Zhou, H. Guo, and G. Deng. A fog computing based approach to DDoS mitigation in IIoT systems. Computers & Security - Journal, Elsevier, Vol. 85, pp. 51-62, August 2019</span>
+  - <span style="font-size: 0.9rem  ;">H. Guo, L. H. Ngoh, W. C. Wong and J. G. Tan. Comparison of In-Network versus Staggered Multicast Video Distribution Models. Multimedia Tools and Applications - Journal, Kluwer Academic Publishers, Vol. 28, No. 3, pp. 373 – 394, March 2006</span>
+  - <span style="font-size: 0.9rem  ;">H. Guo and X. Yu. A Survey on Blockchain Technology and its security. Blockchain: Research and Applications, Elsevier, February 2022</span>
+  - <span style="font-size: 0.9rem  ;">D. Li, H. Guo, J. Zhou, L. Zhou, and J. W. Wong. SCADAWall: A CPI-Enabled Firewall Model for SCADA Security. Computers & Security Journal, Elsevier, Vol. 80, pp. 134-154, January 2019</span>
+  - <span style="font-size: 0.9rem  ;">H. Guo, L. H. Ngoh, W. C. Wong and J. G. Tan. DINCast: A Hop Efficient Dynamic Multicast Infrastructure for P2P Computing. Future Generation Computer Systems - Journal, Special issue in Peer-To-Peer Computing and Interaction with Grids, Elsevier, Vol 21/3 pp. 361-375, March 2005</span>
+  - <span style="font-size: 0.9rem  ;">E. G. Chekole, S. Chattopadhyay, M. Ochoa, H. Guo. Unnikrishnan Cheramangalath. CIMA: Compiler-Enforced Resilience Against Memory Safety Attacks in Cyber-Physical Systems. Computers & Security, Elsevier, Volume 94, July 2020</span>
+  - <span style="font-size: 0.9rem  ;">H. Guo, Y, Wu, F. Bao, H. Chen and M. Ma. UBAPV2G: A Unique Batch Authentication Protocol for Vehicle-to-Grid Communications. IEEE Transactions on Smart Grid, Vol. 2, No. 4, pp. 707-714, December 2011</span>
 </details>
 <details>
   <summary><strong>Conference Papers</strong></summary>
