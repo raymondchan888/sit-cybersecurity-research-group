@@ -67,8 +67,14 @@ Dr. David Sanan received his PhD degree in Software Engineering from the Univers
 His research interest is in bringing together theoretical research and applications, by applying formal methods to guarantee the security of real-world applications.  His work has outcomes applied to security micro-kernels for high assurance systems like Electric-Vehicles and Spacecrafts, techniques for quantum computing verification and the certification of smart contracts. As a result, his research has been recognized by international standards like ARINC, and has been published in top tiers venues like CAV, FM, S&P, POPL, TDSC, and TOPLAS among others.
 
 ## Publications
-### Journal Papers
+<details>
+  <summary><strong>Journal Papers</strong></summary>
+
   - Verification of Complex Dynamic Data Tree with Mu-Calculus, Maria del Mar Gallardo and David Sanan, Automated Software Engineering, 2013
   - An Isabelle/HOL Formalisation of the SPARC Instruction Set Architecture and the TSO Memory Model, Hou Zhe, David Sanan, Liu Yang, Chuen Hoa Koh, and Dong Jin Song, Journal of Automated Reasoning, 65:569 – 598, 2021
-### Conference Papers
+</details>
+<details>
+  <summary><strong>Conference Papers</strong></summary>
+
   - Rely-guarantee Reasoning about Concurrent Memory Management in Zephyr RTOS, Yongwang Zhao and David Sanan, The 31st International Conference on Computer-Aided Verification, CAV, New York, US, July 2019
+</details>
