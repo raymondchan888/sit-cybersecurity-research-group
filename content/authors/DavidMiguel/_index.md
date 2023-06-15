@@ -27,11 +27,13 @@ education:
     institution: University of Malaga, Spain
 
 publications:
-- type: Journal Papers
+- type: collapsible
+  label: Journal Papers
   items:  
   - Maria del Mar Gallardo and David Sanan. Verification of Complex Dynamic Data Tree with Mu-Calculus. Automated Software Engineering, 20(4):569 – 612, 2013
   - Hou Zhe, David Sanan, Liu Yang, Chuen Hoa Koh, and Dong Jin Song. An Isabelle/HOL Formalisation of the SPARC Instruction Set Architecture and the TSO Memory Model. Journal of Automated Reasoning, 65:569 – 598, 2021
-- type: Conferences
+- type: collapsible
+  label: Conferences
   items:
   - Yongwang Zhao and David Sanan. Rely-guarantee Reasoning about Concurrent Memory Management in Zephyr RTOS. In The 31st International Conference on Computer-Aided Verification, CAV, New York, US, July 2019
 # Social/Academic Networking
