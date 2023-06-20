@@ -4,6 +4,8 @@ date: 2022-05-10
 lastmod: 2022-05-10
 image:
     focal_point: "Right"
+    preview_only: true
+summary: Both organisations will conduct professional training courses and share best practices in the cybersecurity community.
 ---
 
 ***Both organisations will conduct professional training courses and share best practices in the cybersecurity community.***
