@@ -8,7 +8,7 @@ image:
 
 ***Both organisations will conduct professional training courses and share best practices in the cybersecurity community.***
 
-![AiSP-SIT-MOU](./aisp-sit-mou.jpg)
+![AiSP-SIT-MOU](./featured.jpg)
 *<font size = 2>The MOU was signed by  (left) Mr Johnny Kho, President, AiSP, and Associate Professor Ivan Lee (right), Vice President (Innovation), SIT, and witnessed by Dr Janil Puthucheary (center), Senior Minister of State, Ministry of Communications and Information & Ministry of Health. (Photo credit: AISP)*</font>
 
 A Memorandum of Understanding (MOU) was inked by **Association of Information Security Professionals (AiSP)** and the **Singapore Institute of Technology (SIT)** on 11 May 2022. The collaboration between AiSP and SIT aims to create a vibrant and dynamic international information and cybersecurity ecosystem in Singapore. Both parties will jointly conduct training, share best practices, and participate in events and activities.
