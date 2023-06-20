@@ -6,8 +6,6 @@ authors:
 image: 
   caption: ""  # optional; e.g., "Image credit: [**Unsplash**](https://unsplash.com/photos/CabU3v18QfY)"
   focal_point: "Right"  # optional, values:"Smart", "Center", "TopLeft", "Top", "TopRight", "Left", "Right", "BottomLeft", "Bottom", "BottomRight"
-  preview_only: true  # optional
-  featured: "featured.png"
 ---
 
 ***CELLS is cross-platform and detects Meltdown and Spectre attacks in real-time***
