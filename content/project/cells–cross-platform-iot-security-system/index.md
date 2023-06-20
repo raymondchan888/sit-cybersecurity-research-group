@@ -3,7 +3,10 @@ title: "CELLS – Cross Platform IoT Security System"
 date: 2019-07-01
 authors:
 - "Peter Loh"
-image: "featured.png"
+image: 
+  caption: "featured.png"  # optional; e.g., "Image credit: [**Unsplash**](https://unsplash.com/photos/CabU3v18QfY)"
+  focal_point: "Smart"  # optional, values:"Smart", "Center", "TopLeft", "Top", "TopRight", "Left", "Right", "BottomLeft", "Bottom", "BottomRight"
+  preview_only: false  # optional
 ---
 
 ***CELLS is cross-platform and detects Meltdown and Spectre attacks in real-time***
