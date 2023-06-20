@@ -5,7 +5,7 @@ authors:
 - "Peter Loh"
 image: 
   caption: ""  # optional; e.g., "Image credit: [**Unsplash**](https://unsplash.com/photos/CabU3v18QfY)"
-  focal_point: "Smart"  # optional, values:"Smart", "Center", "TopLeft", "Top", "TopRight", "Left", "Right", "BottomLeft", "Bottom", "BottomRight"
+  focal_point: "Right"  # optional, values:"Smart", "Center", "TopLeft", "Top", "TopRight", "Left", "Right", "BottomLeft", "Bottom", "BottomRight"
   preview_only: true  # optional
   featured: "featured.png"
 ---
