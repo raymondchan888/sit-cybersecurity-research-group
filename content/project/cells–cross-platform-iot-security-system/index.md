@@ -4,7 +4,7 @@ date: 2019-07-01
 authors:
 - "Peter Loh"
 image: 
-  caption: ""  # optional; e.g., "Image credit: [**Unsplash**](https://unsplash.com/photos/CabU3v18QfY)"
+  caption: "featured.png"
   focal_point: "Right"  # optional, values:"Smart", "Center", "TopLeft", "Top", "TopRight", "Left", "Right", "BottomLeft", "Bottom", "BottomRight"
 ---
 
