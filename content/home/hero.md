@@ -7,14 +7,14 @@ title: My Hero
 weight: 10 # Position of section on the page
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: ''
+hero_media: 'welcome.jpg'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://wowchemy.com'
-  label: Get Started
+  url: './people/'
+  label: 'Meet the team →'
   icon_pack: fas
   icon: download
 cta_alt:
