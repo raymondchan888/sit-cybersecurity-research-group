@@ -16,8 +16,5 @@ design:
   # Add custom styles
   css_style:
   css_class:
+text: The **SIT Cybersecurity Research Group** addresses a wide range of security topics that are needed by industry and government. Our research includes IoT security, drone security, web and mobile security, digital forensics, quantum computing, governance and OT security. We work with a large number of companies to evaluate and assess security, advise on cybersecurity operations and research at the cutting edge of this field.
 ---
-
-<br>
-
-<font size = 6>The **SIT Cybersecurity Research Group** addresses a wide range of security topics that are needed by industry and government. Our research includes IoT security, drone security, web and mobile security, digital forensics, quantum computing, governance and OT security. We work with a large number of companies to evaluate and assess security, advise on cybersecurity operations and research at the cutting edge of this field.</font>
