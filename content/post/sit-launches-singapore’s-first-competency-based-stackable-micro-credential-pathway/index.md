@@ -2,11 +2,15 @@
 title: "SIT Launches Singapore’s First Competency-based Stackable Micro-credential Pathway"
 date: 2022-11-24
 lastmod: 2022-11-24
+image:
+    focal_point: "Center"
+    preview_only: true
+summary: " "
 ---
 
 ***MOUs signed with NCS, Singtel, Singapore Computer Society and three polytechnics to upskill and reskill ICT sector workforce.***  
 
-![CSM pathway Mou signing](./isacasg2022awardwinners.jpg)
+![CSM pathway Mou signing](./featured.jpg)
 
 *<font size=2>Key representatives at the CSM pathway MOU signing ceremony on 28 November 2022. Back row: (From left) Mr Tan Wee Beng, Deputy Chief Executive (Operations and Regulation), SkillsFuture Singapore; Mr Bill Chang, Chairman, Board of Trustees, SIT; Mr Chan Chun Sing, Minister for Education; Prof Chua Kee Chaing, President, SIT; and Mr Terence Chia, Acting Assistant Chief Executive (Corporate), Infocomm Media Development Authority. Front row: (From left) Ms Jeanne Liew, Principal & CEO, Nanyang Polytechnic; Mr Soh Wai Wah, President & CEO, Singapore Polytechnic; Mr Peter Lam, President & CEO, Temasek Polytechnic; Prof John Thong, Deputy President (Academic) & Provost, SIT; Mr Gerard Koh, Vice President, People & Culture, National Computer Systems; Mr Sam Liew, President, Singapore Computer Society; and Mr Charlton Ong, Vice President, People & Culture, Group Enterprise & Singapore, Singtel. (SIT Photo: Keng Photography/Tan Eng Keng)*</font>
 

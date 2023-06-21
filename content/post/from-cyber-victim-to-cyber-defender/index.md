@@ -2,11 +2,15 @@
 title: "From Cyber Victim to Cyber Defender"
 date: 2022-03-10
 lastmod: 2022-03-10
+image:
+    focal_point: "Center"
+    preview_only: true
+summary: " "
 ---
 
 ***An early exposure to a cybercrime led Year 3 SITizen Kevin Tan to embark on a journey to build and hone digital sleuthing skills. His impressive efforts in giving back to the community earned him the Gold Award in the Association of Information Security Professionals (AiSP) Student Volunteer Recognition Programme (SVRP) 2021.***
 
-![KevinTan](./kevintan1920x1080.jpg)
+![KevinTan](./featured.jpg)
 
 *<font size = 2>Kevin Tan (centre) receiving the Gold Award for his efforts in the AiSP Student Volunteer Recognition Programme 2021. The award was presented by Mr Tan Kiat How (left), Minister of State, Ministry of Communications and Information & Ministry of National Development, on 19 January 2022. Also pictured is Assistant Professor Goh Weihan (right), Infocomm Technology cluster, SIT.* </font>
 

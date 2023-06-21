@@ -2,6 +2,10 @@
 title: "Gold Stars in Cybersecurity"
 date: 2023-01-26
 lastmod: 2023-01-26
+image:
+    focal_point: "Center"
+    preview_only: true
+summary: " "
 ---
 
 ***One stumbled into IT, lured by an attractive brochure, and found her niche; the other has always known this is what he wants to do and has carefully planned his path. Last November, both SITizens were honoured by the Association of Information Security Professionals (AiSP) for their outstanding efforts in developing the student cybersecurity community.***
@@ -14,7 +18,7 @@ lastmod: 2023-01-26
 
 While it has not been an easy road – from Normal (Academic)-Level to polytechnic to SIT, coding came easily to Jerry. He did not just actively seek cybersecurity knowledge and skills, but also opportunities to share them, which a leadership role in [Div0-H04TS](https://n0h4ts.com/ "H04TS") cybersecurity community has allowed him to do.
 
-![Jerry Tan Fu Wei](./jerrytanfuwei.jpg)
+![Jerry Tan Fu Wei](./featured.jpg)
 
 *<font size="2">Jerry received the SVRP Gold award from Guest-of-Honour Mr Tan Kiat How, Senior Minister of State, Ministry of Communications and Information and Ministry of National Development, for his contributions to the cyber youth community. (Photo: AiSP)*</font>
 
