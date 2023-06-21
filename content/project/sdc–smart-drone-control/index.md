@@ -1,6 +1,12 @@
 ---
 title: "SDC – Smart Drone Control"
 date: 2022-11-01
+authors:
+- "Vivek Balachandran"
+image: 
+  caption: ""
+  focal_point: "Right"  # optional, values:"Smart", "Center", "TopLeft", "Top", "TopRight", "Left", "Right", "BottomLeft", "Bottom", "BottomRight"
+summary: Controlls multiple drones, providing insights, detecting and neeutralising any intruder drones
 ---
 
 ***SDC controlling multiple drones, providing insights and ablility to detect and neutralise any intruder drones***
