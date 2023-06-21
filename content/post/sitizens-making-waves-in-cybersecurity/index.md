@@ -2,6 +2,10 @@
 title: "SITizens Making Waves in Cybersecurity"
 date: 2022-10-10
 lastmod: 2022-10-10
+image:
+    focal_point: "Center"
+    preview_only: true
+summary: " "
 ---
 
 ***SITizens Andrea Chea and Anne Tan from the Information and Communications Technology (Information Security) programme were recently awarded the ISACA Singapore Cyber Leadership Awards for their contributions to the field. In the first of this two-parter, SIT speaks to Andrea about what inspires her and how she hopes to impact the cybersecurity field.***
@@ -15,7 +19,7 @@ For **Andrea Chea Le Xin**, these characters intrigued and inspired her as a you
 
 Andrea’s passion for technology grew stronger and it was through her three-year polytechnic course in information technology that she found her calling. There, she realised how meaningful the application of IT skills could be, and this led her to pursue the [Information and Communications Technology (Information Security)](https://www.singaporetech.edu.sg/undergraduate-programmes/information-and-communications-technology-information-security "ICT(IS)") (ICT (IS)) degree programme at the Singapore Institute of Technology (SIT).
 
-![Award Winer Andrea](./awardwinerandrea.jpg)
+![Award Winer Andrea](./featured.jpg)
 <font size=2>*Andrea (centre) receiving her award from Mr Tan Kiat How (left) and Mr Steven Sim Kok Leong (right), President, ISACA Singapore Chapter. (Photo: ISACA Singapore Chapter)*</font>
 
 Today, the SIT alumna is a Team Leader at accountancy firm [RSM Singapore](https://www.rsm.global/singapore/ "RSM SG"), where she spearheads clients’ internal process assessments and advises them on implementing security measures. She also provides digital literacy and awareness training, which includes education on potential threats to organisational information and steps to data protection.
