@@ -7,7 +7,7 @@ title: My Hero
 weight: 10 # Position of section on the page
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: 'welcome.jpg'
+hero_media: 'SIT-Primary-logo.png'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
@@ -15,11 +15,11 @@ hero_media: 'welcome.jpg'
 cta:
   url: './people/'
   label: 'Meet the team →'
-  icon_pack: fas
-  icon: download
-cta_alt:
-  url: 'https://wowchemy.com'
-  label: View Documentation
+  # icon_pack: fas
+  # icon: download
+# cta_alt:
+#   url: 'https://wowchemy.com'
+#   label: View Documentation
 
 # Note. An optional note to show underneath the links.
 cta_note:
@@ -28,9 +28,9 @@ cta_note:
 # Choose an optional background color, gradient, image, or video
 design:
   background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
+    gradient_end: '#21130d'
+    gradient_start: '#873e23'
     text_color_light: true
 ---
 
-Add an intro paragraph here.
+The **SIT Cybersecurity Research Group** addresses a wide range of security topics that are needed by industry and government. Our research includes IoT security, drone security, web and mobile security, digital forensics, quantum computing, governance and OT security. We work with a large number of companies to evaluate and assess security, advise on cybersecurity operations and research at the cutting edge of this field.
