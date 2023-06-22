@@ -124,6 +124,3 @@ cms:
 icon:
   pack:
     ai: true
-css:
-  assets:
-    - css/hero.css
