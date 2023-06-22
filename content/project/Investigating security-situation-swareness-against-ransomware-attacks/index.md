@@ -17,9 +17,11 @@ summary: Security Situation Awareness Platform (SSAP) against ransomware attacks
 It is a 2-year project with a MNC to be completed in 2024
 
 **<font size = 6>Proposed SSAP**</font>
+
 This project designs the SSAP platform and adopts open-source Security Information and Event Management (SIEM) tools to support the SSAP implementation. Data analysis, ransomware detection functionalities and other security measures are further developed and integrated into the SSAP platform. SSAP supports not only IT security but also OT & IoT security. 
 
 ![Proposed SSAP](./proposed-ssap.png)
 
 **<font size = 6>Collaborations and Contact Information**</font>
+
 The collaborations are warmly welcome! Please feel free to contact PI at [huaqun.guo@singaporetech.edu.sg](mailto:huaqun.guo@singaporetech.edu.sg?subject=Collaboration%20Opportunity)
