@@ -1,6 +1,6 @@
 ---
 title: "Investigating Security Situation Awareness against Ransomware Attacks"
-date: 2019-07-11
+date: 2024-01-01
 authors:
 - "Huaqun Guo"
 - "Liming Lu"
