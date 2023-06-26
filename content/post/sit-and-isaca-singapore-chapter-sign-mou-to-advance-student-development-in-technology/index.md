@@ -2,9 +2,13 @@
 title: "SIT and ISACA Singapore Chapter Sign MOU to Advance Student Development in Technology"
 date: 2022-03-24
 lastmod: 2022-03-24
+image:
+    focal_point: "Center"
+    preview_only: true
+summary: " "
 ---
 
-![SIT-ISACA_MOU](./sit-isaca-mou.jpg)
+![SIT-ISACA_MOU](./featured.jpg)
  
 The Singapore Institute of Technology (SIT) and the [ISACA Singapore Chapter](https://engage.isaca.org/singaporechapter/home "ISACA Singapore Chapter") have signed a Memorandum of Understanding (MOU) to collaborate on activities spanning areas such as academic awards, student development, as well as talks and workshops.
 

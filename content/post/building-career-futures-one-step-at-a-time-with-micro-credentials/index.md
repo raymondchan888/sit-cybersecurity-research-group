@@ -2,11 +2,15 @@
 title: "Building Career Futures One Step at a Time with Micro-credentials"
 date: 2022-12-22
 lastmod: 2022-12-22
+image:
+    focal_point: "Center"
+    preview_only: true
+summary: " "
 ---
 
 ***SIT partners with NCS, Singtel, Singapore Computer Society and three polytechnics to boost upskilling efforts in ICT sector for working adults.***
 
-![digital transformation resized](./digitaltransformationresized.jpg)
+![digital transformation resized](./featured.jpg)
 
 In Singapore, around 10,000 ICT professionals have been added each year in recent years, yet 19,000 jobs are unfilled in the ICT industry, despite the country being ranked fourth in the latest edition of the [IMD World Digital Competitiveness 2022 Ranking](https://www.imd.org/centers/wcc/world-competitiveness-center/rankings/world-digital-competitiveness-ranking/ "IMD Ranking"). 
 
