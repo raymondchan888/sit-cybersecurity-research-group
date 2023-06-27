@@ -21,37 +21,37 @@ interests:
 - Critical Infrastructure Protection
 - Digital Forensic 
 
-# education:
-#   courses:
-#   - course: PhD in Computer Science
-#     institution: The University of Hong Kong
-#     year: 2018
-#   - course: BEng in Computer Science
-#     institution: The University of Hong Kong
-#     year: 2011
+education:
+  courses:
+  - course: PhD in Computer Science
+    institution: The University of Hong Kong
+    year: 2018
+  - course: BEng in Computer Science
+    institution: The University of Hong Kong
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:Raymond.Chan@singaporetech.edu.sg'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/kanipan888
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?hl=en&user=UxXlnUgAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/kanipan888
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:Raymond.Chan@singaporetech.edu.sg'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/kanipan888
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=UxXlnUgAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/kanipan888
+Link to a PDF of your resume/CV from the About widget.
+To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
