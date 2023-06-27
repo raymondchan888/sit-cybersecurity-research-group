@@ -17,7 +17,7 @@ main:
     url: project
     weight: 40
   - name: Project
-    url: project
+    url: projecting
     weight: 60
   - name: Contact
     url: contact
