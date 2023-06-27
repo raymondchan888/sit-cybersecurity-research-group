@@ -6,7 +6,7 @@ title: Raymond Chan
 superuser: true
 
 # Role/position
-role: Assistant professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
