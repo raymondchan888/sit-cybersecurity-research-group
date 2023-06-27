@@ -65,12 +65,12 @@ user_groups:
 - Faculty
 ---
 
-<!-- ## <span style="font-size: 1.25rem  ;">**Biography**</span> -->
-<!-- <span style="font-size: 0.9rem  ;">Dr. Raymond Chan specialized in cybersecurity, digital forensic, critical infrastructure protection, cyber-physical system, secure software development, and privacy-preserving model. He published many papers related to digital forensic, critical infrastructure protection. He has more than ten years of experience developing software systems for government-funded projects in Hong Kong. 
+## <span style="font-size: 1.25rem  ;">**Biography**</span>
+<span style="font-size: 0.9rem  ;">Dr. Raymond Chan specialized in cybersecurity, digital forensic, critical infrastructure protection, cyber-physical system, secure software development, and privacy-preserving model. He published many papers related to digital forensic, critical infrastructure protection. He has more than ten years of experience developing software systems for government-funded projects in Hong Kong. 
 
-Currently, he is an Assistant professor at Singapore Institute of Technology and the vice-chair of IFIP Working Group 11.10 on Critical Infrastructure Protection. He has experience to conduct vulnerability assessment and penetration testing, digital forensic investigation, provide security solutions for software systems.</span> -->
+Currently, he is an Assistant professor at Singapore Institute of Technology and the vice-chair of IFIP Working Group 11.10 on Critical Infrastructure Protection. He has experience to conduct vulnerability assessment and penetration testing, digital forensic investigation, provide security solutions for software systems.</span>
 
-<!-- ## <span style="font-size: 1.25rem  ;">**Publications**</span>
+## <span style="font-size: 1.25rem  ;">**Publications**</span>
 <details>
   <summary><strong>Conference Papers</strong></summary>
   
@@ -80,6 +80,4 @@ Currently, he is an Assistant professor at Singapore Institute of Technology and
   - <span style="font-size: 0.9rem  ;">Chan, Raymond, and Kam-Pui Chow. "Threat analysis of an elevator control system." International Conference on Critical Infrastructure Protection. Springer, Cham, 2017</span>
   - <span style="font-size: 0.9rem  ;">Chan, Raymond, et al. "The Cloud Storage Ecosystem–A New Business Model for Internet Piracy?" IFIP International Conference on Digital Forensics. Springer, Cham, 2016</span>
   - <span style="font-size: 0.9rem  ;">Chan, Raymond, and Kam-Pui Chow. "Forensic analysis of a Siemens programmable logic controller." International Conference on Critical Infrastructure Protection. Springer, Cham, 2016</span>
-</details> -->
-
-
+</details>
