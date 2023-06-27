@@ -5,7 +5,7 @@ lastmod: 2022-12-22
 image:
     focal_point: "Center"
     preview_only: true
-summary: " "
+summary: "SIT collaborates with industry partners to launch Singapore's first Competency-based Stackable Micro-credential (CSM) Pathway, providing upskilling opportunities for working adults in the ICT sector."
 ---
 
 ***SIT partners with NCS, Singtel, Singapore Computer Society and three polytechnics to boost upskilling efforts in ICT sector for working adults.***
