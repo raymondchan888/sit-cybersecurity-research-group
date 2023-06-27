@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
@@ -38,4 +38,4 @@ design:
   columns: '1'
 ---
 
-Check out my recent blog posts below!
+Check out my recent blog posts below! -->
