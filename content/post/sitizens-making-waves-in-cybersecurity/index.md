@@ -5,7 +5,7 @@ lastmod: 2022-10-10
 image:
     focal_point: "Center"
     preview_only: true
-summary: " "
+summary: "SIT alumna Andrea Chea receives the Singapore Cyber Security Young Leader Award at the 2022 ISACA Singapore Cyber Leadership Awards."
 ---
 
 ***SITizens Andrea Chea and Anne Tan from the Information and Communications Technology (Information Security) programme were recently awarded the ISACA Singapore Cyber Leadership Awards for their contributions to the field. In the first of this two-parter, SIT speaks to Andrea about what inspires her and how she hopes to impact the cybersecurity field.***

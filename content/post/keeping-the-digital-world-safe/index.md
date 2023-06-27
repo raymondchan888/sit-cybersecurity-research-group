@@ -5,7 +5,7 @@ lastmod: 2022-10-10
 image:
     focal_point: "Center"
     preview_only: true
-summary: " "
+summary: "ICT (IS) undergraduate Anne Tan received the Youth Leader Award at the ISACA Singapore Cyber Leadership Awards for her contributions to cybersecurity."
 ---
 
 ***SITizens Andrea Chea and Anne Tan from the Information and Communications Technology (Information Security) programme recently clinched the ISACA Singapore Cyber Leadership Awards for their contributions to the field. In the second of this two-part series, SIT speaks to Anne about her contributions to the cybersecurity community and her aspirations.***
