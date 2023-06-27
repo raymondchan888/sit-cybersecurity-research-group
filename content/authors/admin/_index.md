@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Raymond
+title: Raymond Chan
 
 # Is this the primary user of the site?
 superuser: true
