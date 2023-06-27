@@ -69,7 +69,7 @@ user_groups:
 
 Currently, he is an Assistant professor at Singapore Institute of Technology and the vice-chair of IFIP Working Group 11.10 on Critical Infrastructure Protection. He has experience to conduct vulnerability assessment and penetration testing, digital forensic investigation, provide security solutions for software systems.</span>
 
-## <span style="font-size: 1.25rem  ;">**Publications**</span>
+<!-- ## <span style="font-size: 1.25rem  ;">**Publications**</span>
 <details>
   <summary><strong>Conference Papers</strong></summary>
   
@@ -79,6 +79,6 @@ Currently, he is an Assistant professor at Singapore Institute of Technology and
   - <span style="font-size: 0.9rem  ;">Chan, Raymond, and Kam-Pui Chow. "Threat analysis of an elevator control system." International Conference on Critical Infrastructure Protection. Springer, Cham, 2017</span>
   - <span style="font-size: 0.9rem  ;">Chan, Raymond, et al. "The Cloud Storage Ecosystem–A New Business Model for Internet Piracy?" IFIP International Conference on Digital Forensics. Springer, Cham, 2016</span>
   - <span style="font-size: 0.9rem  ;">Chan, Raymond, and Kam-Pui Chow. "Forensic analysis of a Siemens programmable logic controller." International Conference on Critical Infrastructure Protection. Springer, Cham, 2016</span>
-</details>
+</details> -->
 
 
