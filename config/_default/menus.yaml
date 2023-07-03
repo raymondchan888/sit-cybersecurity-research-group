@@ -10,15 +10,18 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
+  # - name: Events
+  #   url: event
+  #   weight: 40
   - name: Projects
     url: project
-    weight: 50
-  # - name: Publications
+    weight: 40
+  # - name: Publication
   #   url: publication
   #   weight: 60
   - name: Contact
     url: contact
+    weight: 50
+  - name: Testing
+    url: testing
     weight: 60

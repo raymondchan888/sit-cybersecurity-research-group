@@ -5,7 +5,7 @@ lastmod: 2022-11-24
 image:
     focal_point: "Center"
     preview_only: true
-summary: " "
+summary: "Singapore Institute of Technology (SIT) partners with NCS, Singtel, Singapore Computer Society, and polytechnics to offer Competency-based Stackable Micro-credentials pathway."
 ---
 
 ***MOUs signed with NCS, Singtel, Singapore Computer Society and three polytechnics to upskill and reskill ICT sector workforce.***  

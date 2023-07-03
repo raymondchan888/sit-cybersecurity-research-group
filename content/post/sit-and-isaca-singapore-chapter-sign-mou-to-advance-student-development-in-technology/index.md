@@ -5,7 +5,7 @@ lastmod: 2022-03-24
 image:
     focal_point: "Center"
     preview_only: true
-summary: " "
+summary: "Singapore Institute of Technology (SIT) and ISACA Singapore Chapter signed an MOU to collaborate on academic and student development activities."
 ---
 
 ![SIT-ISACA_MOU](./featured.jpg)

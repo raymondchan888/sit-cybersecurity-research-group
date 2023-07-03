@@ -6,7 +6,7 @@ publishDate: 2022-05-10
 image:
     focal_point: "Center"
     preview_only: true
-summary: " "
+summary: "AiSP and SIT signed an MOU to conduct training and share best practices, fostering a vibrant cybersecurity ecosystem in Singapore."
 ---
 
 ***Both organisations will conduct professional training courses and share best practices in the cybersecurity community.***
