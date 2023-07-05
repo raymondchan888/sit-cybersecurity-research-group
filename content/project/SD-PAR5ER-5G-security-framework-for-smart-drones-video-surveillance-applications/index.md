@@ -6,5 +6,5 @@ authors:
 image: 
   caption: ""
   focal_point: "Right"  # optional, values:"Smart", "Center", "TopLeft", "Top", "TopRight", "Left", "Right", "BottomLeft", "Bottom", "BottomRight"
-summary: AI assisted techniques for traffic routing and congestion control in next-gen networks
+summary: "SD-PAR5ER: 5G Security Framework for Smart Drones Video Surveillance Applications"
 ---
