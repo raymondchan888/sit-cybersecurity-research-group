@@ -1,6 +1,6 @@
 ---
 title: Ongoing Projects for 2023
-date: 2023-01-01
+date: 2023-07-05
 authors:
 - 
 image: 
