@@ -1,32 +1,31 @@
 ---
 # Display name
-title: Venkata Abhishek Nalam
+title: Arthur Wee Yeong Loo
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Lecturer
+role: Lead Professional Officer
 
 # Organizations/Affiliations
 organizations:
 - name: Singapore Institute of Technology
-  url: "https://www.singaporetech.edu.sg/directory/faculty/nalam-venkata-abhishek"
+  url: ""
 
-# Short bio (displayed in user profile at end of posts) 
-bio: 
+# Short bio (displayed in user profile at end of posts)
+bio:
 
 interests:
-- Wireless Networks and Security
-- Machine Learning for Network Systems
+- Embedded Systems (Programming)
+- Mobile Application Development
+- Cyber-Security
 
 education:
   courses:
-  - course: PhD
-    institution: National University of Singapore, Singapore
+  - course: M.A.Tech. in Knowledge Engineering
 
-  - course: B.Tech
-    institution: Indian Institute of Technology Mandi, India
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,13 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'https://www.singaporetech.edu.sg/directory/faculty/nalam-venkata-abhishek'
-- icon: google-scholar
-  icon_pack: ai
-  link: "https://scholar.google.co.in/citations?user=0aJjW0IAAAAJ&hl=en"
-- icon: linkedin
-  icon_pack: fab
-  link: "https://www.linkedin.com/in/nalam-venkata-abhishek-a6471523/?originalSubdomain=sg"
+  link: "https://www.singaporetech.edu.sg/directory/professional-officers/arthur-loo-wee-yeong"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,3 +52,5 @@ highlight_name: false
 user_groups:
 - Faculty
 ---
+
+

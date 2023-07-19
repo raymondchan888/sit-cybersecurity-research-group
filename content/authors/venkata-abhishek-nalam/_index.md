@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Muhamed Fauzi Bin Abbas
+title: Venkata Abhishek Nalam
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Lecturer
@@ -11,24 +11,22 @@ role: Lecturer
 # Organizations/Affiliations
 organizations:
 - name: Singapore Institute of Technology
-  url: "https://www.singaporetech.edu.sg/directory/faculty/muhamed-fauzi-bin-abbas"
+  url: "https://www.singaporetech.edu.sg/directory/faculty/nalam-venkata-abhishek"
 
-# Short bio (displayed in user profile at end of posts)
-bio:
+# Short bio (displayed in user profile at end of posts) 
+bio: 
 
 interests:
-- Lightweight Intrusion Detection Technique on IoT
-- Vision Analytics on the Edge
-- Applications for IoT
+- Wireless Networks and Security
+- Machine Learning for Network Systems
 
 education:
   courses:
-  - course: PhD in Cyber-security on Embedded Systems
-    institution: Nanyang Technological University, Singapore
-    year: 2019
-  - course: M.Eng. in Real-time operating system, Embedded System
-    institution: Nanyang Technological University, Singapore
-    year: 2011
+  - course: PhD
+    institution: National University of Singapore, Singapore
+
+  - course: B.Tech
+    institution: Indian Institute of Technology Mandi, India
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,10 +35,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fauzi.abbas@singaporetech.edu.sg'
+  link: 'https://www.singaporetech.edu.sg/directory/faculty/nalam-venkata-abhishek'
+- icon: google-scholar
+  icon_pack: ai
+  link: "https://scholar.google.co.in/citations?user=0aJjW0IAAAAJ&hl=en"
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/fauzi-abbas-047a2075/
+  link: "https://www.linkedin.com/in/nalam-venkata-abhishek-a6471523/?originalSubdomain=sg"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,4 +59,3 @@ highlight_name: false
 user_groups:
 - Faculty
 ---
-

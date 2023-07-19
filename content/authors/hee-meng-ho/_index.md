@@ -3,7 +3,7 @@
 title: Hee Meng Ho
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Senior Lecturer
