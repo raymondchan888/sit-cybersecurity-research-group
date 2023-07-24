@@ -18,4 +18,4 @@ This project is done in conjunction with Custodio Technologies Pte Ltd., MHA/HTX
 ![tools-slade](./tools-slade.png)
 
 **<font size = 6>Investigate Cases**</font>
-![investigation](./investigation-slade.png)
+![investigation](./featured.png)

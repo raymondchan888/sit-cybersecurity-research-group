@@ -13,4 +13,4 @@ summary: Vulnerability analysis and pen-testing to mitigate threats
 ***A Framework for AMI that perfoms Vulnerability Analysis and Pen-Testing (VAPT) to ensure that threats are mitigated.***
 
 **<font size = 6>Smart Cybersecurity Framework**</font>
-![smart cybersecurity framework](./smart-cybersecurity-for-AMI-framework.png)
+![smart cybersecurity framework](./featured.png)
