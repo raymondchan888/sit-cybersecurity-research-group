@@ -20,7 +20,7 @@ It is a 2-year project with a MNC to be completed in 2024
 
 This project designs the SSAP platform and adopts open-source Security Information and Event Management (SIEM) tools to support the SSAP implementation. Data analysis, ransomware detection functionalities and other security measures are further developed and integrated into the SSAP platform. SSAP supports not only IT security but also OT & IoT security. 
 
-![Proposed SSAP](./proposed-ssap.png)
+![Proposed SSAP](./featured.png)
 
 **<font size = 6>Collaborations and Contact Information**</font>
 

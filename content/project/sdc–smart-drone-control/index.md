@@ -17,7 +17,7 @@ The project is done in collaboration with Distek Enterprises Pte Ltd and Frontie
 ![Architecture of SDC](./architecture-sdc-framework.png)
 
 **<font size = 6>Multiple Drones Managed by SDC Framework-Equipped Network**</font>
-![Multi SDC Framework-Equipped Network](sdc-framework-network.png)
+![Multi SDC Framework-Equipped Network](featured.png)
 
 **<font size = 6>Detecting and Neutralising Intruder Drone**</font>
 
