@@ -59,7 +59,7 @@ The CSM pathway is currently offered under the [Bachelor of Science with Honours
 “Overcoming the challenges of articulating the demand for new skills will require everyone, including individuals, companies, trade associations, unions, and the government, to work together to scan the horizon and conduct regular dialogues to identify these new skills,” he added. 
 
 
-![Picture 1 - Key representatives at the CSM pathway MOU signing ceremony on 28 November 2022 (1)](./key-representatives.jpg)
+![Picture 1 - Key representatives at the CSM pathway MOU signing ceremony on 28 November 2022 (1)](./featured.jpg)
 *<font size= 2>Key representatives at the CSM pathway MOU signing ceremony on 28 November 2022.* </font>
 
 **Back row:** *(From left) Mr Tan Wee Beng, Deputy Chief Executive (Operations and Regulation), SkillsFuture Singapore; Mr Bill Chang, Chairman, Board of Trustees, SIT; Mr Chan Chun Sing, Minister for Education; Prof Chua Kee Chaing, President, SIT; and Mr Terence Chia, Acting Assistant Chief Executive (Corporate), Infocomm Media Development Authority.*
